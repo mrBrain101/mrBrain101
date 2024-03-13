@@ -2,17 +2,12 @@
 <a href="https://t.me/SKuroptev"><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-%40SKuroptev?style=flat&logo=telegram&color=grey"></a>
 
 ## Hellow and welcome ty my GitHub profile page! <br>
-My name is Sergey Kuroptev and I am an aspiring Data Scientist.
-Here in various repo's I will acuumulate experience and knowledge while advancing in this unique and extremely interesting (and sometimes challenging) career.
-
-
-
-
-    
-
+My name is Sergey Kuroptev and I am an aspiring Data Scientist.<br>
+Here in various repositories I will acuumulate experience and knowledge while advancing in this unique and extremely interesting (and sometimes challenging) career.
 
 - 🌱 I’m currently studiyng at the "Yandex Practicum" as a Data Science student.
 - 📫 How to reach me: you can ping me at my LinkedIn profile page or on Telegram.
+  
 - ⚡ Question of the day: Why did the chicken cross the road? The answer is trivial and is left as an exercise for the reader.
 
 <!--
