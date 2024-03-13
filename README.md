@@ -1,6 +1,12 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/zluvsand/](https://www.linkedin.com/in/sergey-kuroptev-0015402a2/)](https://img.shields.io/badge/TELEGRAM-%40SKuroptev?style=flat&logo=telegram&labelColor=white&color=black
 )"></a>
+
+![Static Badge](https://img.shields.io/badge/TELEGRAM-%40SKuroptev?style=flat&logo=telegram&color=grey)
+
+
+
+
 <a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" /></a>a
 
