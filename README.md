@@ -1,8 +1,9 @@
 <a href="https://www.linkedin.com/in/sergey-kuroptev-0015402a2/"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" /></a>
 <a href="https://t.me/SKuroptev"><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-%40SKuroptev?style=flat&logo=telegram&color=grey"></a>
 
-## Hi! <br>
+## Hellow and welcome ty my GitHub profile page! <br>
 My name is Sergey Kuroptev and I am an aspiring Data Scientist.
+Here in various repo's I will acuumulate experience and knowledge while advancing in this unique and extremely interesting (and sometimes challenging) career.
 
 
 
