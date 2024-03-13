@@ -1,6 +1,6 @@
 ### Hi there 👋
-a href="[https://www.linkedin.com/in/zluvsand/](https://www.linkedin.com/in/sergey-kuroptev-0015402a2/)">
-a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<a href="[https://www.linkedin.com/in/zluvsand/](https://www.linkedin.com/in/sergey-kuroptev-0015402a2/)">
+<a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 
 
