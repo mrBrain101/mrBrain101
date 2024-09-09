@@ -12,9 +12,9 @@ Here, in the list below and in the various repositories, I am accumulating exper
 
 
 # DS roadmap
----
+
 ## DS and Statistics
----
+
 ### Courses
 | Course | Description | Status |
 |:--|:--|:--|
@@ -31,7 +31,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 | The Data Science. Design manual | S.S. Skiena | ⬜ |
 | Storytelling with Data: A Data Visualization Guide for Business Professionals | C.N. Knaflic | ⬜ |
 | The functional art | A. Cairo | ⬜ |
-
+<br><br>
 
 <!--## Competitions
 | Name | Platform | Description | Link |
@@ -39,7 +39,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 
 
 ## ML
----
+
 ### Courses
 | Course | Description | Status |
 |:--|:--|:--|
@@ -52,16 +52,15 @@ Here, in the list below and in the various repositories, I am accumulating exper
 | CS 229 | Stanford 2022 ML course with Andrew Ng | ⬜ |
 | MAchine Learning | Yandex Data Analisys School | 🟨 |
 
-
 ### Books
 | Book | Author(s) | Status |
 |:--|:--|:--|
 | Mathematics for Machine Learning | M. P. Deisenroth, A. A. Faisal, C. S. Ong | ⬜ |
 | Introducing MLOps | M. Treveil.
-
+<br><br>
 
 ## DL
----
+
 ### Courses
 | Course | Description | Status |
 |:--|:--|:--|
@@ -72,12 +71,16 @@ Here, in the list below and in the various repositories, I am accumulating exper
 |:--|:--|:--|
 | Grokking Deep Learning | A.W. Trask | ⬜ |
 | Deep Learning: A Visual Approach | A. Glassner | ⬜ |
+<br><br>
+
 
 ## NLP
 ### Courses
 | Course | Description | Status | Link |
 |:--|:--|:--|:--|
 | Neural networks and language processing | R. Suvorov's course | ⬜ | ![link](https://stepik.org/course/54098/promo)
+<br><br>
+
 
 ## CV
 ### Coursese
@@ -85,9 +88,11 @@ Here, in the list below and in the various repositories, I am accumulating exper
 |:--|:--|:--|:--|
 | Neural networks and computer vision | M. Romanov course | ⬜ | ![link](https://stepik.org/course/50352/promo)
 | CS231n | 2016 Visual recognition course with Andrej Karpathy | ⬜ | ![link](https://youtube.com/playlist?list=PLlQXC4BDK2Qjtv-9pypk0xUu8zEE1C0tD&si=vq1b7YgmvGCOFGrd)
+<br><br>
+
 
 ## Python
----
+
 ### Courses
 | Course | Description | Status | Link
 |:--|:--|:--|:--|
@@ -101,9 +106,11 @@ Here, in the list below and in the various repositories, I am accumulating exper
 |:--|:--|:--|
 | Beyound the basic stuff with Python. Best practices for writing code | A. Sweigart | 🟨 |
 | Fluent Python | L.Ramalho | 🟨 |
+<br><br>
+
 
 ## CS
----
+
 ### Courses
 | Course | Description | Status | Link |
 |:--|:--|:--|:--|
@@ -121,4 +128,3 @@ Here, in the list below and in the various repositories, I am accumulating exper
 | Grokking algorithms | A. Y. Bhargava | ⬜ |
 | Cracking the coding interview | G. L. McDowell | ⬜ |
 | Cracking the Tech career | G. L. McDowell | ⬜ |
-
