@@ -81,7 +81,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 ### Courses
 | Course | Description | Status | Link |
 |:--|:--|:--|:--|
-| Neural networks and language processing | R. Suvorov's course | ⬜ | ![link](https://stepik.org/course/54098/promo)
+| Neural networks and language processing | R. Suvorov's course | ⬜ | [link](https://stepik.org/course/54098/promo)
 
 <br><br>
 
@@ -90,8 +90,8 @@ Here, in the list below and in the various repositories, I am accumulating exper
 ### Coursese
 | Course | Description | Status | Link |
 |:--|:--|:--|:--|
-| Neural networks and computer vision | M. Romanov course | ⬜ | ![link](https://stepik.org/course/50352/promo)
-| CS231n | 2016 Visual recognition course with Andrej Karpathy | ⬜ | ![link](https://youtube.com/playlist?list=PLlQXC4BDK2Qjtv-9pypk0xUu8zEE1C0tD&si=vq1b7YgmvGCOFGrd)
+| Neural networks and computer vision | M. Romanov course | ⬜ | [link](https://stepik.org/course/50352/promo)
+| CS231n | 2016 Visual recognition course with Andrej Karpathy | ⬜ | [link](https://youtube.com/playlist?list=PLlQXC4BDK2Qjtv-9pypk0xUu8zEE1C0tD&si=vq1b7YgmvGCOFGrd)
 
 <br><br>
 
@@ -101,10 +101,10 @@ Here, in the list below and in the various repositories, I am accumulating exper
 ### Courses
 | Course | Description | Status | Link
 |:--|:--|:--|:--|
-| CS50P | Harvard's introductory Python and OOP course | ✅ | ![link](https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&si=IluuC7UM_cp5GyEc) |
-| Python Basics | Yandex handbook | 🟨 | ![link](https://education.yandex.ru/handbook/python) |
-| 100 Nunmpy Exercises | Github collection from N.P. Rougier | 🟨 | ![link](https://github.com/rougier/numpy-100) |
-| 100 Pandas Puzzles | Github collection from A. Riley | 🟨 | ![link](https://github.com/ajcr/100-pandas-puzzles) |
+| CS50P | Harvard's introductory Python and OOP course | ✅ | [link](https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&si=IluuC7UM_cp5GyEc) |
+| Python Basics | Yandex handbook | 🟨 | [link](https://education.yandex.ru/handbook/python) |
+| 100 Nunmpy Exercises | Github collection from N.P. Rougier | 🟨 | [link](https://github.com/rougier/numpy-100) |
+| 100 Pandas Puzzles | Github collection from A. Riley | 🟨 | [link](https://github.com/ajcr/100-pandas-puzzles) |
 
 ### Books
 | Book | Author(s) | Status |
@@ -120,12 +120,12 @@ Here, in the list below and in the various repositories, I am accumulating exper
 ### Courses
 | Course | Description | Status | Link |
 |:--|:--|:--|:--|
-| CS50x | Harvard's introductory CS course | ✅ | ![link](https://youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V&si=mmXi6lQb9j3zWays)
+| CS50x | Harvard's introductory CS course | ✅ | [link](https://youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V&si=mmXi6lQb9j3zWays)
 | Linux Basics | Stepik | ⬜ |
-| Linux fundamentals | Linux intro course | ⬜ | ![link](https://tryhackme.com/module/linux-fundamentals)
-| Algorithm basics | Yandex handbook | 🟨 | ![link](https://education.yandex.ru/handbook/algorithms)
-| Algorithms: theory and practice. Methods |  A.Kulikov's Algorithm course | ⬜ | <!--https://stepik.org/course/217/promo-->
-| Algorithms: theory and practice. Data structures | A.Kulikov's Algorithm course 2 | ⬜ |<!--https://stepik.org/course/1547/promo-->
+| Linux fundamentals | Linux intro course | ⬜ | [link](https://tryhackme.com/module/linux-fundamentals)
+| Algorithm basics | Yandex handbook | 🟨 | [link](https://education.yandex.ru/handbook/algorithms)
+| Algorithms: theory and practice. Methods |  A.Kulikov's Algorithm course | ⬜ | [link](https://stepik.org/course/217/promo)
+| Algorithms: theory and practice. Data structures | A.Kulikov's Algorithm course 2 | ⬜ | [link](https://stepik.org/course/1547/promo)
 
 ### Books
 | Book | Author(s) | Status |
