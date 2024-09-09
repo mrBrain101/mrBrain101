@@ -31,7 +31,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 | The Data Science. Design manual | S.S. Skiena | ⬜ |
 | Storytelling with Data: A Data Visualization Guide for Business Professionals | C.N. Knaflic | ⬜ |
 | The functional art | A. Cairo | ⬜ |
-<br><br>
+<br><br><br>
 
 <!--## Competitions
 | Name | Platform | Description | Link |
@@ -56,8 +56,8 @@ Here, in the list below and in the various repositories, I am accumulating exper
 | Book | Author(s) | Status |
 |:--|:--|:--|
 | Mathematics for Machine Learning | M. P. Deisenroth, A. A. Faisal, C. S. Ong | ⬜ |
-| Introducing MLOps | M. Treveil.
-<br><br>
+| Introducing MLOps | M. Treveil. | ⬜ |
+<br><br><br>
 
 ## DL
 
@@ -71,7 +71,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 |:--|:--|:--|
 | Grokking Deep Learning | A.W. Trask | ⬜ |
 | Deep Learning: A Visual Approach | A. Glassner | ⬜ |
-<br><br>
+<br><br><br>
 
 
 ## NLP
@@ -79,7 +79,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 | Course | Description | Status | Link |
 |:--|:--|:--|:--|
 | Neural networks and language processing | R. Suvorov's course | ⬜ | ![link](https://stepik.org/course/54098/promo)
-<br><br>
+<br><br><br>
 
 
 ## CV
@@ -88,7 +88,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 |:--|:--|:--|:--|
 | Neural networks and computer vision | M. Romanov course | ⬜ | ![link](https://stepik.org/course/50352/promo)
 | CS231n | 2016 Visual recognition course with Andrej Karpathy | ⬜ | ![link](https://youtube.com/playlist?list=PLlQXC4BDK2Qjtv-9pypk0xUu8zEE1C0tD&si=vq1b7YgmvGCOFGrd)
-<br><br>
+<br><br><br>
 
 
 ## Python
@@ -106,7 +106,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 |:--|:--|:--|
 | Beyound the basic stuff with Python. Best practices for writing code | A. Sweigart | 🟨 |
 | Fluent Python | L.Ramalho | 🟨 |
-<br><br>
+<br><br><br>
 
 
 ## CS
