@@ -47,6 +47,8 @@ Here, in the list below and in the various repositories, I am accumulating exper
 | ML handbbok | Yandex hanbook | 🟨 |
 
 ### YouTube Lectures
+| Course | Description | Status |
+|:--|:--|:--|
 | CS 229 | Stanford 2022 ML course with Andrew Ng | ⬜ |
 | MAchine Learning | Yandex Data Analisys School | 🟨 |
 
