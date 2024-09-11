@@ -4,7 +4,7 @@
 <a href="https://t.me/mrBrain_101"><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-%40SKuroptev?style=flat&logo=telegram&color=grey"></a>
 
 My name is Sergey Kuroptev, and I am a Data Scientist and a Machine Learning enthusiast.<br>
-Here, in the list below and in the various repositories, I am accumulating experience and knowledge while advancing on this unique and extremely interesting (and sometimes challenging) career path.
+Here, in the list below and in the various repositories, I am accumulating experience and knowledge while advancing on this unique and extremely interesting (and sometimes challenging) path.
 
 - 🌱 I’m currently pursuing several personal projects. More details on this later.
 - 📫 You can reach me on my LinkedIn profile page or Telegram ⬆️.
@@ -133,6 +133,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 | Book | Author(s) | Status |
 |:--|:--|:--|
 | Linux fundamentals | P. Cobbaut | ⬜ |
+| The_Algorithm_Design_Manual | S.S. Skiena | ⬜ |
 | Grokking algorithms | A. Y. Bhargava | ⬜ |
 | Cracking the coding interview | G. L. McDowell | ⬜ |
 | Cracking the Tech career | G. L. McDowell | ⬜ |
