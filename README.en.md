@@ -20,7 +20,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 ### Courses
 | Course | Description | Status |
 |:--|:--|:--|
-| Data Science+ | <b>A year and a half comprehensive Yandex.Practicum Data Science course</b> | ✅ |
+| Data Science+ | <b>A year and a half comprehensive Yandex.Practicum Data Science course (Statistics, ML, DL, NLP, CV)</b> | ✅ |
 | Statistic's basics | Anatoly Karpov's statistics introductory course | ✅ |
 
 ### Books
