@@ -24,7 +24,7 @@
 | Statistic's basics | Вводный курс по статистике Анатолия Карпова | ✅ |
 
 ### Книги
-| Книг | Автор(ы) | Статус |
+| Книга | Автор(ы) | Статус |
 |:--|:--|:--|
 | Practical Statistics for Data Scientists | A.Bruce, P. Bruce, P. Gedeck | ✅ |
 | Statistics and Machine Learning in Python | E. Duchesnay, T. Lofstedt, F. Younes | ✅ |
@@ -56,7 +56,7 @@
 | MAchine Learning | Yandex Data Analisys School | 🟨 |
 
 ### Книги
-| Книг | Автор(ы) | Статус |
+| Книга | Автор(ы) | Статус |
 |:--|:--|:--|
 | Mathematics for Machine Learning | M. P. Deisenroth, A. A. Faisal, C. S. Ong | ⬜ |
 | Introducing MLOps | M. Treveil. | ⬜ |
@@ -70,8 +70,8 @@
 |:--|:--|:--|
 | Deep learning basics | dlcourse.ai course | ⬜ |
 
-### Books
-| Book | Автор(ы) | Статус |
+### Книги
+| Книга | Автор(ы) | Статус |
 |:--|:--|:--|
 | Grokking Deep Learning | A.W. Trask | ⬜ |
 | Deep Learning: A Visual Approach | A. Glassner | ⬜ |
@@ -101,7 +101,7 @@
 ## Python
 
 ### Курсы
-| Курс | Описание | Статус | Ссылка
+| Курс | Описание | Статус | Ссылка |
 |:--|:--|:--|:--|
 | CS50P | Harvard's introductory Python and OOP course | ✅ | [link](https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&si=IluuC7UM_cp5GyEc) |
 | Python Basics | Yandex handbook | 🟨 | [link](https://education.yandex.ru/handbook/python) |
@@ -109,7 +109,7 @@
 | 100 Pandas Puzzles | Github collection from A. Riley | 🟨 | [link](https://github.com/ajcr/100-pandas-puzzles) |
 
 ### Книги
-| Книг | Автор(ы) | Статус |
+| Книга | Автор(ы) | Статус |
 |:--|:--|:--|
 | Beyound the basic stuff with Python. Best practices for writing code | A. Sweigart | 🟨 |
 | Fluent Python | L.Ramalho | 🟨 |
@@ -130,7 +130,7 @@
 | Algorithms: theory and practice. Data structures | A.Kulikov's Algorithm course 2 | ⬜ | [link](https://stepik.org/course/1547/promo)
 
 ### Книги
-| Книг | Автор(ы) | Статус |
+| Книга | Автор(ы) | Статус |
 |:--|:--|:--|
 | Linux fundamentals | P. Cobbaut | ⬜ |
 | Grokking algorithms | A. Y. Bhargava | ⬜ |
