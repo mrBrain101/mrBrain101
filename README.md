@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
+
 <a href="https://www.linkedin.com/in/sergey-kuroptev-0015402a2/"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" /></a>
 <a href="https://t.me/mrBrain_101"><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-%40SKuroptev?style=flat&logo=telegram&color=grey"></a>
 
