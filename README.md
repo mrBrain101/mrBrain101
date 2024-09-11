@@ -3,28 +3,28 @@
 <a href="https://www.linkedin.com/in/sergey-kuroptev-0015402a2/"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" /></a>
 <a href="https://t.me/mrBrain_101"><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-%40SKuroptev?style=flat&logo=telegram&color=grey"></a>
 
-My name is Sergey Kuroptev, and I am a Data Scientist and a Machine Learning enthusiast.<br>
-Here, in the list below and in the various repositories, I am accumulating experience and knowledge while advancing on this unique and extremely interesting (and sometimes challenging) career path.
+Меня зовут Сергей Куроптев, я - специалист по Data Science и энтузиаст машинного обучения.<br>.
+Здесь, в списке ниже и в различных хранилищах, я накапливаю опыт и знания, продвигаясь по этому уникальному и чрезвычайно интересному (а порой и сложному) пути.
 
-- 🌱 I’m currently pursuing several personal projects. More details on this later.
-- 📫 You can reach me on my LinkedIn profile page or Telegram ⬆️.
+- 🌱 Сейчас я занимаюсь несколькими личными проектами. Подробнее об этом позже.
+- 📫 Вы можете связаться со мной на странице моего профиля в LinkedIn или в Telegram ⬆️.
   
-- ⚡ Question of the day: Why did the chicken cross the road? The answer is trivial and is left as an exercise for the reader.
+- ⚡ Вопрос дня: Я всегда путал каузацию с корреляцией, пока не прошел курс по науке о данных. Значит помогло?
 
 
 
-# DS roadmap
+# DS план изучения
 
-## DS and Statistics
+## DS и Статистика
 
-### Courses
-| Course | Description | Status |
+### Курсы
+| Курс | Описание | Статус |
 |:--|:--|:--|
-| Data Science+ | <b>A year and a half comprehensive Yandex.Practicum Data Science course</b> | ✅ |
-| Statistic's basics | Anatoly Karpov's statistics introductory course | ✅ |
+| Data Science+ | <b>Полуторагодичный курс от Yandex Практикум: Специалист по Data Science</b> | ✅ |
+| Statistic's basics | Вводный курс по статистике Анатолия Карпова | ✅ |
 
-### Books
-| Book | Author(s) | Status |
+### Книги
+| Книг | Автор(ы) | Статус |
 |:--|:--|:--|
 | Practical Statistics for Data Scientists | A.Bruce, P. Bruce, P. Gedeck | ✅ |
 | Statistics and Machine Learning in Python | E. Duchesnay, T. Lofstedt, F. Younes | ✅ |
@@ -43,20 +43,20 @@ Here, in the list below and in the various repositories, I am accumulating exper
 
 ## ML
 
-### Courses
-| Course | Description | Status |
+### Курсы
+| Курс | Описание | Статус |
 |:--|:--|:--|
 | mlcourse.ai | Open machine learning course | ✅ |
 | ML handbbok | Yandex hanbook | 🟨 |
 
-### YouTube Lectures
-| Course | Description | Status |
+### YouTube лекции
+| Курс | Описание | Статус |
 |:--|:--|:--|
 | CS 229 | Stanford 2022 ML course with Andrew Ng | ⬜ |
 | MAchine Learning | Yandex Data Analisys School | 🟨 |
 
-### Books
-| Book | Author(s) | Status |
+### Книги
+| Книг | Автор(ы) | Статус |
 |:--|:--|:--|
 | Mathematics for Machine Learning | M. P. Deisenroth, A. A. Faisal, C. S. Ong | ⬜ |
 | Introducing MLOps | M. Treveil. | ⬜ |
@@ -65,13 +65,13 @@ Here, in the list below and in the various repositories, I am accumulating exper
 
 ## DL
 
-### Courses
-| Course | Description | Status |
+### Курсы
+| Курс | Описание | Статус |
 |:--|:--|:--|
 | Deep learning basics | dlcourse.ai course | ⬜ |
 
 ### Books
-| Book | Author(s) | Status |
+| Book | Автор(ы) | Статус |
 |:--|:--|:--|
 | Grokking Deep Learning | A.W. Trask | ⬜ |
 | Deep Learning: A Visual Approach | A. Glassner | ⬜ |
@@ -80,8 +80,8 @@ Here, in the list below and in the various repositories, I am accumulating exper
 
 
 ## NLP
-### Courses
-| Course | Description | Status | Link |
+### Курсы
+| Курс | Описание | Статус | Ссылка |
 |:--|:--|:--|:--|
 | Neural networks and language processing | R. Suvorov's course | ⬜ | [link](https://stepik.org/course/54098/promo)
 
@@ -89,8 +89,8 @@ Here, in the list below and in the various repositories, I am accumulating exper
 
 
 ## CV
-### Coursese
-| Course | Description | Status | Link |
+### Курсы
+| Курс | Описание | Статус | Ссылка |
 |:--|:--|:--|:--|
 | Neural networks and computer vision | M. Romanov course | ⬜ | [link](https://stepik.org/course/50352/promo)
 | CS231n | 2016 Visual recognition course with Andrej Karpathy | ⬜ | [link](https://youtube.com/playlist?list=PLlQXC4BDK2Qjtv-9pypk0xUu8zEE1C0tD&si=vq1b7YgmvGCOFGrd)
@@ -100,16 +100,16 @@ Here, in the list below and in the various repositories, I am accumulating exper
 
 ## Python
 
-### Courses
-| Course | Description | Status | Link
+### Курсы
+| Курс | Описание | Статус | Ссылка
 |:--|:--|:--|:--|
 | CS50P | Harvard's introductory Python and OOP course | ✅ | [link](https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&si=IluuC7UM_cp5GyEc) |
 | Python Basics | Yandex handbook | 🟨 | [link](https://education.yandex.ru/handbook/python) |
 | 100 Nunmpy Exercises | Github collection from N.P. Rougier | 🟨 | [link](https://github.com/rougier/numpy-100) |
 | 100 Pandas Puzzles | Github collection from A. Riley | 🟨 | [link](https://github.com/ajcr/100-pandas-puzzles) |
 
-### Books
-| Book | Author(s) | Status |
+### Книги
+| Книг | Автор(ы) | Статус |
 |:--|:--|:--|
 | Beyound the basic stuff with Python. Best practices for writing code | A. Sweigart | 🟨 |
 | Fluent Python | L.Ramalho | 🟨 |
@@ -119,8 +119,8 @@ Here, in the list below and in the various repositories, I am accumulating exper
 
 ## CS
 
-### Courses
-| Course | Description | Status | Link |
+### Курсы
+| Курс | Описание | Статус | Ссылка |
 |:--|:--|:--|:--|
 | CS50x | Harvard's introductory CS course | ✅ | [link](https://youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V&si=mmXi6lQb9j3zWays)
 | Linux Basics | Stepik | ⬜ |
@@ -129,10 +129,11 @@ Here, in the list below and in the various repositories, I am accumulating exper
 | Algorithms: theory and practice. Methods |  A.Kulikov's Algorithm course | ⬜ | [link](https://stepik.org/course/217/promo)
 | Algorithms: theory and practice. Data structures | A.Kulikov's Algorithm course 2 | ⬜ | [link](https://stepik.org/course/1547/promo)
 
-### Books
-| Book | Author(s) | Status |
+### Книги
+| Книг | Автор(ы) | Статус |
 |:--|:--|:--|
 | Linux fundamentals | P. Cobbaut | ⬜ |
 | Grokking algorithms | A. Y. Bhargava | ⬜ |
+| The_Algorithm_Design_Manual | S.S. Skiena | ⬜ |
 | Cracking the coding interview | G. L. McDowell | ⬜ |
 | Cracking the Tech career | G. L. McDowell | ⬜ |
