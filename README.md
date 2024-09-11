@@ -30,7 +30,7 @@
 | Statistics and Machine Learning in Python | E. Duchesnay, T. Lofstedt, F. Younes | ✅ |
 | Data Mining. Concepts and Techniques | J. Han, J. Pei, H. Tong | ⬜ |
 | Think Stats. Exploratory Data Analysis in Python | A. B. Downey | 🟨 |
-| The Data Science. Design manual | S.S. Skiena | ⬜ |
+| The Data Science Design manual | S.S. Skiena | ⬜ |
 | Storytelling with Data: A Data Visualization Guide for Business Professionals | C.N. Knaflic | ⬜ |
 | The functional art | A. Cairo | ⬜ |
 
