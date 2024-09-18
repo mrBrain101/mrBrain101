@@ -2,6 +2,9 @@
 
 <a href="https://www.linkedin.com/in/sergey-kuroptev-0015402a2/"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" /></a>
 <a href="https://t.me/mrBrain_101"><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-%40SKuroptev?style=flat&logo=telegram&color=grey"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/mrBrain101/"><img src="https://img.shields.io/badge/LeetCode-gray?logo=LEETCODE" /></a>
+<a href="https://www.kaggle.com/sergeykuroptev"><img src="https://img.shields.io/badge/Kaggle-gray?logo=KAGGLE" /></a>
 
 My name is Sergey Kuroptev, and I am a Data Scientist and a Machine Learning enthusiast.<br>
 Here, in the list below and in the various repositories, I am accumulating experience and knowledge while advancing on this unique and extremely interesting (and sometimes challenging) path.
