@@ -107,7 +107,7 @@
 |:--|:--|:--|:--|
 | CS50P | Harvard's introductory Python and OOP course | ✅ | [link](https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&si=IluuC7UM_cp5GyEc) |
 | Python Basics | Yandex handbook | 🟨 | [link](https://education.yandex.ru/handbook/python) |
-| 100 Nunmpy Exercises | Github collection from N.P. Rougier | 🟨 | [link](https://github.com/rougier/numpy-100) |
+| 100 Numpy Exercises | Github collection from N.P. Rougier | 🟨 | [link](https://github.com/rougier/numpy-100) |
 | 100 Pandas Puzzles | Github collection from A. Riley | 🟨 | [link](https://github.com/ajcr/100-pandas-puzzles) |
 
 ### Книги
