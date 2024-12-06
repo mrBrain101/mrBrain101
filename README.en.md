@@ -32,7 +32,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 | Practical Statistics for Data Scientists | A.Bruce, P. Bruce, P. Gedeck | ✅ |
 | Statistics and Machine Learning in Python | E. Duchesnay, T. Lofstedt, F. Younes | ✅ |
 | Data Mining. Concepts and Techniques | J. Han, J. Pei, H. Tong | ⬜ |
-| Think Stats. Exploratory Data Analysis in Python | A. B. Downey | 🟨 |
+| Think Stats. Exploratory Data Analysis in Python | A. B. Downey | ✅ |
 | The Data Science. Design manual | S.S. Skiena | ⬜ |
 | Storytelling with Data: A Data Visualization Guide for Business Professionals | C.N. Knaflic | ⬜ |
 | The functional art | A. Cairo | ⬜ |
