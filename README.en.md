@@ -16,6 +16,13 @@ Here, in the list below and in the various repositories, I am accumulating exper
 
 
 
+# Completed open projects
+|Description|URL|
+|:--|:--|
+|"Algorithm training 6.0" from Yandex|[link](https://github.com/mrBrain101/Yandex_Algorithm_Training_6_2024_GIT)|
+|Data Scientist Plus Professional Training Course from Yandex.Practicum|[link](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/main/README.en.md)|
+
+
 # DS roadmap
 
 ## DS and Statistics
