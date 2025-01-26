@@ -10,7 +10,6 @@
 Меня зовут Сергей Куроптев, я - специалист по Data Science и энтузиаст машинного обучения.<br>
 Здесь, в списке ниже и в различных хранилищах, я накапливаю опыт и знания, продвигаясь по этому уникальному и чрезвычайно интересному (а порой и сложному) пути.
 
-- 🌱 Сейчас я занимаюсь несколькими личными проектами. Подробнее об этом позже.
 - 📫 Вы можете связаться со мной на странице моего профиля в LinkedIn или в Telegram ⬆️.
 
 
@@ -19,8 +18,8 @@
 |Название|Категория|URL|
 |:--|:--|:--|
 |Множественная классификация текcтов|NLP|[URL](https://github.com/mrBrain101/Projects/tree/b3874bd5582a7b8b438a429e60ed7e6dc29c9484/01_NLP_Multilabel_Samokat)|
-|Сертификат о прохождении и задачи "Тренировок по алгоритмам 6.0" от Яндекса|Программирование|[link](https://github.com/mrBrain101/Yandex_Algorithm_Training_6_2024_GIT)|
-|Проекты, выполненные в рамках обучения в Яндекс.Практикум|Data Science|[link](https://github.com/mrBrain101/Yandex_Practicum_projects)|
+|Сертификат о прохождении и задачи "Тренировок по алгоритмам 6.0" от Яндекса|Программирование|[URL](https://github.com/mrBrain101/Yandex_Algorithm_Training_6_2024_GIT)|
+|Проекты, выполненные в рамках обучения в Яндекс.Практикум|Data Science|[URL](https://github.com/mrBrain101/Yandex_Practicum_projects)|
 
 # DS план изучения
 
@@ -92,7 +91,7 @@
 ### Курсы
 | Курс | Описание | Статус | Ссылка |
 |:--|:--|:--|:--|
-| Neural networks and language processing | R. Suvorov's course | ⬜ | [link](https://stepik.org/course/54098/promo)
+| Neural networks and language processing | R. Suvorov's course | ⬜ | [URL](https://stepik.org/course/54098/promo)
 
 <br><br>
 
@@ -101,8 +100,8 @@
 ### Курсы
 | Курс | Описание | Статус | Ссылка |
 |:--|:--|:--|:--|
-| Neural networks and computer vision | M. Romanov course | ⬜ | [link](https://stepik.org/course/50352/promo)
-| CS231n | 2016 Visual recognition course with Andrej Karpathy | ⬜ | [link](https://youtube.com/playlist?list=PLlQXC4BDK2Qjtv-9pypk0xUu8zEE1C0tD&si=vq1b7YgmvGCOFGrd)
+| Neural networks and computer vision | M. Romanov course | ⬜ | [URL](https://stepik.org/course/50352/promo)
+| CS231n | 2016 Visual recognition course with Andrej Karpathy | ⬜ | [URL](https://youtube.com/playlist?list=PLlQXC4BDK2Qjtv-9pypk0xUu8zEE1C0tD&si=vq1b7YgmvGCOFGrd)
 
 <br><br>
 
@@ -112,10 +111,10 @@
 ### Курсы
 | Курс | Описание | Статус | Ссылка |
 |:--|:--|:--|:--|
-| CS50P | Harvard's introductory Python and OOP course | ✅ | [link](https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&si=IluuC7UM_cp5GyEc) |
-| Python Basics | Yandex handbook | 🟨 | [link](https://education.yandex.ru/handbook/python) |
-| 100 Numpy Exercises | Github collection from N.P. Rougier | 🟨 | [link](https://github.com/rougier/numpy-100) |
-| 100 Pandas Puzzles | Github collection from A. Riley | 🟨 | [link](https://github.com/ajcr/100-pandas-puzzles) |
+| CS50P | Harvard's introductory Python and OOP course | ✅ | [URL](https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&si=IluuC7UM_cp5GyEc) |
+| Python Basics | Yandex handbook | 🟨 | [URL](https://education.yandex.ru/handbook/python) |
+| 100 Numpy Exercises | Github collection from N.P. Rougier | 🟨 | [URL](https://github.com/rougier/numpy-100) |
+| 100 Pandas Puzzles | Github collection from A. Riley | 🟨 | [URL](https://github.com/ajcr/100-pandas-puzzles) |
 
 ### Книги
 | Книга | Автор(ы) | Статус |
@@ -131,12 +130,12 @@
 ### Курсы
 | Курс | Описание | Статус | Ссылка |
 |:--|:--|:--|:--|
-| CS50x | Harvard's introductory CS course | ✅ | [link](https://youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V&si=mmXi6lQb9j3zWays)
+| CS50x | Harvard's introductory CS course | ✅ | [URL](https://youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V&si=mmXi6lQb9j3zWays)
 | Linux Basics | Stepik | ⬜ |
-| Linux fundamentals | Linux intro course | ⬜ | [link](https://tryhackme.com/module/linux-fundamentals)
-| Algorithm basics | Yandex handbook | 🟨 | [link](https://education.yandex.ru/handbook/algorithms)
-| Algorithms: theory and practice. Methods |  A.Kulikov's Algorithm course | ⬜ | [link](https://stepik.org/course/217/promo)
-| Algorithms: theory and practice. Data structures | A.Kulikov's Algorithm course 2 | ⬜ | [link](https://stepik.org/course/1547/promo)
+| Linux fundamentals | Linux intro course | ⬜ | [URL](https://tryhackme.com/module/linux-fundamentals)
+| Algorithm basics | Yandex handbook | 🟨 | [URL](https://education.yandex.ru/handbook/algorithms)
+| Algorithms: theory and practice. Methods |  A.Kulikov's Algorithm course | ⬜ | [URL](https://stepik.org/course/217/promo)
+| Algorithms: theory and practice. Data structures | A.Kulikov's Algorithm course 2 | ⬜ | [URL](https://stepik.org/course/1547/promo)
 
 ### Книги
 | Книга | Автор(ы) | Статус |
