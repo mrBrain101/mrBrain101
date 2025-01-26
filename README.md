@@ -16,10 +16,11 @@
 
 
 # Завершенные открытые проекты (хронологически)
-|Название|URL|
-|:--|:--|
-|Сертификат о прохождении и задачи "Тренировок по алгоритмам 6.0" от Яндекса|[link](https://github.com/mrBrain101/Yandex_Algorithm_Training_6_2024_GIT)|
-|Проекты, выполненные в рамках обучения в Яндекс.Практикум|[link](https://github.com/mrBrain101/Yandex_Practicum_projects)|
+|Название|Категория|URL|
+|:--|:--|:--|
+|Множественная классификация текcтов|NLP|[URL](https://github.com/mrBrain101/Projects/tree/b3874bd5582a7b8b438a429e60ed7e6dc29c9484/01_NLP_Multilabel_Samokat)|
+|Сертификат о прохождении и задачи "Тренировок по алгоритмам 6.0" от Яндекса|Программирование|[link](https://github.com/mrBrain101/Yandex_Algorithm_Training_6_2024_GIT)|
+|Проекты, выполненные в рамках обучения в Яндекс.Практикум|Data Science|[link](https://github.com/mrBrain101/Yandex_Practicum_projects)|
 
 # DS план изучения
 
