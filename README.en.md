@@ -15,6 +15,7 @@ Here, in the list below and in the various repositories, I am accumulating exper
 # Completed open projects
 |Description|URL|
 |:--|:--|
+|Multi-task text classification|NLP|[URL](https://github.com/mrBrain101/Projects/tree/b3874bd5582a7b8b438a429e60ed7e6dc29c9484/01_NLP_Multilabel_Samokat)|
 |"Algorithm training 6.0" from Yandex|[link](https://github.com/mrBrain101/Yandex_Algorithm_Training_6_2024_GIT)|
 |Data Scientist Plus Professional Training Course from Yandex.Practicum|[link](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/main/README.en.md)|
 
