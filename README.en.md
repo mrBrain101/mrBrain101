@@ -9,11 +9,7 @@
 My name is Sergey Kuroptev, and I am a Data Scientist and a Machine Learning enthusiast.<br>
 Here, in the list below and in the various repositories, I am accumulating experience and knowledge while advancing on this unique and extremely interesting (and sometimes challenging) path.
 
-- 🌱 I’m currently pursuing several personal projects. More details on this later.
 - 📫 You can reach me on my LinkedIn profile page or Telegram ⬆️.
-  
-- ⚡ Question of the day: Why did the chicken cross the road? The answer is trivial and is left as an exercise for the reader.
-
 
 
 # Completed open projects
