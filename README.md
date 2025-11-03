@@ -10,6 +10,7 @@
 # Завершенные открытые проекты (хронологически)
 |Название|Категория|URL|
 |:--|:--|:--|
+|API торговой площадки|Backend|[URL](https://github.com/mrBrain101/Storefront_Django_PostgreSql.git)|
 |Множественная классификация текcтов|NLP|[URL](https://github.com/mrBrain101/Projects/tree/b3874bd5582a7b8b438a429e60ed7e6dc29c9484/01_NLP_Multilabel_Samokat)|
 |Сертификат о прохождении и задачи "Тренировок по алгоритмам 6.0" от Яндекса|Программирование|[URL](https://github.com/mrBrain101/Yandex_Algorithm_Training_6_2024_GIT)|
 |Проекты, выполненные в рамках обучения в Яндекс.Практикум|Data Science|[URL](https://github.com/mrBrain101/Yandex_Practicum_projects)|
