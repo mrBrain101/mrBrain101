@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;
 <!-- <a href="https://leetcode.com/u/mrBrain101/"><img src="https://img.shields.io/badge/LeetCode-gray?logo=LEETCODE" /></a> -->
 
-- 📫 Вы можете связаться со мной по <a href="mailto:sergey.kuroptev@gmail.com" target="_blank">почте</a> или в Telegram ⬆️.
+- 📫 Вы можете связаться со мной по <a href="mailto:sergey.kuroptev@gmail.com" target="blank">почте</a> или в Telegram ⬆️.
 
 # Завершенные открытые проекты (хронологически)
 |Название|Категория|URL|
