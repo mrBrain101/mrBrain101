@@ -1,11 +1,11 @@
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](README.md)
 
-<a href="https://www.linkedin.com/in/sergey-kuroptev-0015402a2/"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" /></a>
+<!-- <a href="https://www.linkedin.com/in/sergey-kuroptev-0015402a2/"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" /></a> -->
 <a href="https://t.me/mrBrain_101"><img alt="Static Badge" src="https://img.shields.io/badge/TG-%40SKuroptev?style=flat&logo=telegram&color=grey"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/mrBrain101/"><img src="https://img.shields.io/badge/LeetCode-gray?logo=LEETCODE" /></a>
+<!-- <a href="https://leetcode.com/u/mrBrain101/"><img src="https://img.shields.io/badge/LeetCode-gray?logo=LEETCODE" /></a> -->
 
-- 📫 You can reach me on my LinkedIn profile page or Telegram ⬆️.
+- 📫 You can reach by <a href="mailto:sergey.kuroptev@gmail.com">email</a> or Telegram ⬆️.
 
 # Completed open projects
 |Description|Category|URL|
