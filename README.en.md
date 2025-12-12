@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;
 <!-- <a href="https://leetcode.com/u/mrBrain101/"><img src="https://img.shields.io/badge/LeetCode-gray?logo=LEETCODE" /></a> -->
 
-- 📫 You can reach by <a href="mailto:sergey.kuroptev@gmail.com" target="_blank">email</a> or <a href="https://t.me/mrBrain_101" target="_blank">Telegram</a>.
+- 📫 You can reach me by <a href="mailto:sergey.kuroptev@gmail.com" target="_blank">email</a> or <a href="https://t.me/mrBrain_101" target="_blank">Telegram</a>.
 
 # Completed open projects
 |Description|Category|URL|
